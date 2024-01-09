@@ -1,4 +1,4 @@
-# driving-safety-analysis
+# Driving Safety Analysis
 
 This was my final project for Virginia Tech's CS 3654: Introductory Data Analytics and Visualization course.
 
